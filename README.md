@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 	<h1 align="center">Hey I'm JeinyC</h1>
 	<h3 align="center">I am a junior developer in the process of evolution, learning and working simultaneously</h3>
 </div>
----
