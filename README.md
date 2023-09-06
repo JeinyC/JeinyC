@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 	<h1 align="center">Hey I'm JeinyC</h1>
-	<h3 align="center">I am a junior developer in the process of evolution, learning and working simultaneously</h3>
+	<h3 align="center">I am a developer in the process of evolution, learning and working simultaneously</h3>
 </div>
