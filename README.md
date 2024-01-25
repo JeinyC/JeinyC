@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src = "https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/>
 	<h1 align="center">Hey I'm JeinyC</h1>
+	<hr>
 	<h3 align="center">I am a software developer in the process of evolution</h3>
+<hr>
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNrdnJzZnB0Nnlsb28zaHVqazFmbWJ1bDN5M25pdjQ4amMyaGFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WqA2ZMPc1ddTIbRupZ/giphy.gif"/>
 </div>
