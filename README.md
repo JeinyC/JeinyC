@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" src set="https://capsule-render.vercel.app/api?type=slant&color=0:0D1117,100:00FF41&height=120&section=header&text=%3E%20whoami&fontColor=00FF41&fontSize=40&animation=fadeIn&fontAlignY=55" />
-  <source media="(prefers-color-scheme: light)" src set="https://capsule-render.vercel.app/api?type=slant&color=0:F2F2F2,100:00A82D&height=120&section=header&text=%3E%20whoami&fontColor=0D1117&fontSize=40&animation=fadeIn&fontAlignY=55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slant&color=0:0D1117,100:00FF41&height=120&section=header&text=%3E%20whoami&fontColor=00FF41&fontSize=40&animation=fadeIn&fontAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slant&color=0:F2F2F2,100:00A82D&height=120&section=header&text=%3E%20whoami&fontColor=0D1117&fontSize=40&animation=fadeIn&fontAlignY=55" />
   <img src="https://capsule-render.vercel.app/api?type=slant&color=0:0D1117,100:00FF41&height=120&section=header&text=%3E%20whoami&fontColor=00FF41&fontSize=40&animation=fadeIn&fontAlignY=55" />
 </picture>
 
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" src set="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" />
-    <source media="(prefers-color-scheme: light)" src set="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007A2F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007A2F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" alt="Typing SVG" />
   </picture>
 </h1>
