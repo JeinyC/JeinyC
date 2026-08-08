@@ -1,21 +1,74 @@
-<!--
-**JeinyC/JeinyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slant&color=0:0D1117,100:00FF41&height=120&section=header&text=%3E%20whoami&fontColor=00FF41&fontSize=40&animation=fadeIn&fontAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slant&color=0:F2F2F2,100:00A82D&height=120&section=header&text=%3E%20whoami&fontColor=0D1117&fontSize=40&animation=fadeIn&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=slant&color=0:0D1117,100:00FF41&height=120&section=header&text=%3E%20whoami&fontColor=00FF41&fontSize=40&animation=fadeIn&fontAlignY=55" />
+</picture>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007A2F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeiny+C;Backend+Developer+%7C+Java+%26+Spring+Boot;Welcome+to+my+terminal" alt="Typing SVG" />
+  </picture>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-	<h1 align="center">Hola soy Jeiny C</h1>
-<img src = "https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/>
-	<hr>
-	<h3 align="center">Software developer especializada en Java</h3>
-<hr>
-</div>
+<h3 align="left">💻 &lt;/ Lenguajes &gt;</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+</p>
+
+<h3 align="left">⚙️ &lt;/ Backend Development &gt;</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JPA_Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
+</p>
+
+<h3 align="left">🎨 &lt;/ Frontend Development &gt;</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF41" />
+</p>
+
+<h3 align="left">🗄️ &lt;/ Bases de Datos &gt;</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41" />
+</p>
+
+<h3 align="left">🔧 &lt;/ DevOps & Control de Versiones &gt;</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
+</p>
+
+<h3 align="left">🧪 &lt;/ Calidad & Testing &gt;</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube&logoColor=00FF41" />
+</p>
+
+<h3 align="left">🖥️ &lt;/ IDEs & Herramientas &gt;</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slant&color=0:00FF41,100:0D1117&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slant&color=0:00A82D,100:F2F2F2&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slant&color=0:00FF41,100:0D1117&height=100&section=footer" />
+</picture>
